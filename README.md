@@ -5,9 +5,6 @@
 </div>
 
 ## God bless you
-上帝创造了这世间的一切，你我皆因祂而存在，当你开始知晓神的存在时，圣灵便住在你心里；神与你同在！
-
-
 <!--
 **ChuheZhang/ChuheZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
