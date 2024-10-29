@@ -4,7 +4,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuheZhang&layout=compact&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
 </div>
 
-## God bless you
+## Self-Introduction
+Hello! I’m Fatin, a mechanical and full-stack engineer with a passion for computer science. I believe in God, and my dream is to create machines that grow plants on Mars. I’m dedicated to using technology to advance space exploration.
+
+God bless you.
 <!--
 **ChuheZhang/ChuheZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
