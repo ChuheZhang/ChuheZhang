@@ -5,7 +5,7 @@
 </div>
 
 ## Self-Introduction
-Hello! I’m Fatin, a mechanical and full-stack engineer with a passion for computer science. I believe in God, and my dream is to create machines that grow plants on Mars. I’m dedicated to using technology to advance space exploration.
+Hello! I’m ChuheZhang, a mechanical and full-stack engineer with a passion for computer science. I believe in God, and my dream is to create machines that grow plants on Mars. I’m dedicated to using technology to advance space exploration.
 
 God bless you.
 <!--
